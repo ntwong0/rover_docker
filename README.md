@@ -5,7 +5,8 @@
 * NVIDIA GPU
 ### Software
 * [Docker](https://docs.docker.com/engine/install/ubuntu/)
-* [NVIDIA](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#install-guide)
+* NVIDIA GPU Drivers
+* [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#install-guide)
 
 # Quickstart
 * `sudo ./build_rover_docker.bash`
